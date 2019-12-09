@@ -3,7 +3,9 @@ PHP 7.2.0
 
 #### Installation
 composer install
+
 php artisan migrate
+
 php artisan serve
 
 #### I have to try to make backend Laravel architect robust, scalable and performance-oriented.
